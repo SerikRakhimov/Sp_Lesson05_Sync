@@ -1,0 +1,14 @@
+C:\Users\РахимовС\source\repos\AccountBank_NoSync\AccountBank_NoSync\bin\Debug\AccountBank_NoSync.exe.config
+C:\Users\РахимовС\source\repos\AccountBank_NoSync\AccountBank_NoSync\bin\Debug\AccountBank_NoSync.exe
+C:\Users\РахимовС\source\repos\AccountBank_NoSync\AccountBank_NoSync\bin\Debug\AccountBank_NoSync.pdb
+C:\Users\РахимовС\source\repos\AccountBank_NoSync\AccountBank_NoSync\obj\Debug\AccountBank_NoSync.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\AccountBank_NoSync\AccountBank_NoSync\obj\Debug\AccountBank_NoSync.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\AccountBank_NoSync\AccountBank_NoSync\obj\Debug\AccountBank_NoSync.exe
+C:\Users\РахимовС\source\repos\AccountBank_NoSync\AccountBank_NoSync\obj\Debug\AccountBank_NoSync.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_NoSync\AccountBank_NoSync\bin\Debug\AccountBank_NoSync.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_NoSync\AccountBank_NoSync\bin\Debug\AccountBank_NoSync.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_NoSync\AccountBank_NoSync\bin\Debug\AccountBank_NoSync.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_NoSync\AccountBank_NoSync\obj\Debug\AccountBank_NoSync.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_NoSync\AccountBank_NoSync\obj\Debug\AccountBank_NoSync.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_NoSync\AccountBank_NoSync\obj\Debug\AccountBank_NoSync.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_NoSync\AccountBank_NoSync\obj\Debug\AccountBank_NoSync.csprojResolveAssemblyReference.cache

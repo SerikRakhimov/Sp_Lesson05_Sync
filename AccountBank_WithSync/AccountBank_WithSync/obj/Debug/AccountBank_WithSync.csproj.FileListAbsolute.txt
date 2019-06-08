@@ -1,0 +1,13 @@
+C:\Users\РахимовС\source\repos\AccountBank_WithSync\AccountBank_WithSync\bin\Debug\AccountBank_WithSync.exe.config
+C:\Users\РахимовС\source\repos\AccountBank_WithSync\AccountBank_WithSync\bin\Debug\AccountBank_WithSync.exe
+C:\Users\РахимовС\source\repos\AccountBank_WithSync\AccountBank_WithSync\bin\Debug\AccountBank_WithSync.pdb
+C:\Users\РахимовС\source\repos\AccountBank_WithSync\AccountBank_WithSync\obj\Debug\AccountBank_WithSync.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\AccountBank_WithSync\AccountBank_WithSync\obj\Debug\AccountBank_WithSync.exe
+C:\Users\РахимовС\source\repos\AccountBank_WithSync\AccountBank_WithSync\obj\Debug\AccountBank_WithSync.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_WithSync\AccountBank_WithSync\bin\Debug\AccountBank_WithSync.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_WithSync\AccountBank_WithSync\bin\Debug\AccountBank_WithSync.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_WithSync\AccountBank_WithSync\bin\Debug\AccountBank_WithSync.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_WithSync\AccountBank_WithSync\obj\Debug\AccountBank_WithSync.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_WithSync\AccountBank_WithSync\obj\Debug\AccountBank_WithSync.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_WithSync\AccountBank_WithSync\obj\Debug\AccountBank_WithSync.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\AccountBank_WithSync\AccountBank_WithSync\obj\Debug\AccountBank_WithSync.csprojResolveAssemblyReference.cache

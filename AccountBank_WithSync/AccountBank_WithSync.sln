@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountBank_WithSync", "AccountBank_WithSync\AccountBank_WithSync.csproj", "{135D3DFC-BF25-40BE-A426-80ABC323041A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135D3DFC-BF25-40BE-A426-80ABC323041A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135D3DFC-BF25-40BE-A426-80ABC323041A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135D3DFC-BF25-40BE-A426-80ABC323041A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135D3DFC-BF25-40BE-A426-80ABC323041A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BBE84E1-BFE1-4EBE-8A6A-2E7D7F362E97}
+	EndGlobalSection
+EndGlobal
